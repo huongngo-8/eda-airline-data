@@ -1,5 +1,4 @@
-# eda-airline-data
-Exploration of Operational Data from Airlines Pre and Post-COVID.
+# Exploration of Operational Data from Airlines Pre and Post-COVID.
 
 This project was created for the Statistics Directed Reading Program @ UW. In this project, financial and operational data of passenger airline carriers were explored to learn about how passenger airline carriers are operating post-COVID and any operational factors of the business that have changed due to lower passenger traffic. 
 
