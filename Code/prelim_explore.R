@@ -6,7 +6,7 @@ library(ggrepel)
 library(GGally)
 set.seed(302)
 
-# Importing datasets
+# Importing data sets
 profit_df <- read_csv("/Users/huongngo/Desktop/SPA DRP - Research/eda-airline-data/Data/profit_data.csv")
 traffic_capacity_df <- read_csv("/Users/huongngo/Desktop/SPA DRP - Research/eda-airline-data/Data/traffic_capacity_data.csv")
 
